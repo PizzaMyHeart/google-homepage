@@ -21,8 +21,7 @@ li a{
 }
 
 li a:hover {
-  background-color: #f1f1f1;
-  font-weight: bold;
+  text-decoration: underline;
 }
 
 #navbar {
